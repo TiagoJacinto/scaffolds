@@ -1,0 +1,7 @@
+{
+  "name": "untitled",
+  "type": "module",
+  "scripts": {
+    "dev": "bun run index.ts"
+  }
+}
