@@ -1,7 +1,5 @@
 {
-  "name": "untitled",
-  "type": "module",
-  "scripts": {
-    "dev": "bun run index.ts"
+  "devDependencies": {
+    "@types/bun": "latest"
   }
 }
